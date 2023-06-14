@@ -1,0 +1,23 @@
+{
+  "name": "com.coeussolutions.uiarchitecture",
+  "version": "1.0.0",
+  "displayName": "Sample  UI Architecture",
+  "description": "UI  Architecture for  hyper causal games",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+ },
+ "keywords": [
+    "UI",
+    "User Interface",
+    "Architecture"
+  ],
+  "author": {
+    "name": "Nadeem Shahzad",
+    "email": "nadeem.shahzad.10236@gmail.com",
+    "url": ""
+  }
+}
